@@ -7,7 +7,7 @@ The purpose of this project is to show how to set up a DevOps pipeline using AWS
 ## Features
 - A sample code
 - CodeCommit repository to store the code
-- CodeArtifact repository to store the dependencies
+- S3 Bucket to store the dependencies
 - CodeBuild to build the application
 - CodeDeploy to deploy the application
 - CodePipeline to orchestrate the pipeline
