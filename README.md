@@ -15,7 +15,7 @@ The purpose of this project is to show how to set up a DevOps pipeline using AWS
 ## Prerequisites
 Before you begin, you will need:
 - An AWS account
-- [Read this blog for Prerequisites](https://rushikesh-mashidkar.hashnode.dev/prerequisite-for-aws-devops-projects)\
+- [Read this blog for Prerequisites](https://rushikesh-mashidkar.hashnode.dev/prerequisite-for-aws-devops-projects)
 
 ## Complete step by step Implementation 
 - [Follow this blog](https://rushikesh-mashidkar.hashnode.dev/create-an-aws-code-pipeline-with-aws-code-commit-code-build-code-deploy-tutorial)
